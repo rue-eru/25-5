@@ -13,7 +13,7 @@ All objectives and instructions for the project can be found here:
 ## Technologies Used
 - **Frontend:** React, Vite, CSS
 - **Build Tool:** Vite
-- **Deployment:** GitHub Pages / Netlify
+- **Deployment:** GitHub Pages
 =======
 # 25-5
 FCC Pomodoro Clock Project
