@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 25 + 5 Clock
 
 This project is a part of FreeCodeCamp's Front End Development Libraries Certification. The goal is to build a **25 + 5 Clock** (also known as a Pomodoro Timer) that allows users to:
@@ -12,3 +13,7 @@ All objectives and instructions for the project can be found here:
 - **Frontend:** React, Vite, CSS
 - **Build Tool:** Vite
 - **Deployment:** GitHub Pages / Netlify
+=======
+# 25-5
+FCC Pomodoro Clock Project
+>>>>>>> 45d766c7eb0cef87193ceeb05d6650657f42e1b9
