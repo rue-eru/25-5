@@ -14,7 +14,7 @@ All objectives and instructions for the project can be found here:
 - **Frontend:** React, Vite, CSS
 - **Build Tool:** Vite
 - **Deployment:** GitHub Pages
-=======
+
 # 25-5
 FCC Pomodoro Clock Project
 >>>>>>> 45d766c7eb0cef87193ceeb05d6650657f42e1b9
